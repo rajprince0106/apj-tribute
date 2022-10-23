@@ -1,0 +1,12 @@
+img {
+    border-radius: 50%;
+  }
+
+ .first-div{
+    display:flex;
+ } 
+
+
+ .subdiv-2{
+    text-align: right;
+ }
